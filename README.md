@@ -1,2 +1,2 @@
-# C-journey-
+# C++ journey-
 hey..this are my practice codes
